@@ -19,5 +19,7 @@ Link to deployed [password generator](https://janice-cloud.github.io/passwordgen
 ## Visuals
 
 ##### Mobile version
+(https://github.com/Janice-cloud/passwordgenerator/blob/master/images/13F0200B-A441-4C59-A13C-E8737EBBAAAA_4_5005_c.jpeg?raw=true "mobile version")
 
 ##### Desktop version
+(https://github.com/Janice-cloud/passwordgenerator/blob/master/images/FA06663B-6E57-44FB-9F4A-2FF4961B215F_1_105_c.jpeg?raw=true "Desktop version")
