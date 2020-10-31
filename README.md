@@ -7,11 +7,12 @@ The new password provides greater security to sensitive data and saves time for 
 
 The generated password meets the below criteria : 
 
-- password is between 8 - 128 characters long, AND
+- password is between 8 - 100 characters long, AND
 the password must have at least one of the following character types:
     - lowercase characters
     - uppercasse characters
     - special characters
     - numeric characters
 
+Link to deployed [password generator](https://janice-cloud.github.io/passwordgenerator/)
 
