@@ -23,7 +23,7 @@
         <div class="card-body">
           <textarea
             readonly
-            id="password"
+            id="result"
             placeholder="Your Secure Password"
             aria-label="Generated Password"
           ></textarea>
@@ -33,15 +33,17 @@
             <label for="formControlRange"
               >Please choose length of your password:</label
             >
+            <div id="selectValue"></div>
+          </div>
             <input
               type="range"
-              id="length"
-              class="custom-range"
               id="formControlRange"
+              class="form-control-range"
               min="8"
-              max="150"
+              max="100"
+              value="8"
             />
-          </div>
+            
         </form>
         <div class="card-footer">
           <div class="input-group mb-3">
