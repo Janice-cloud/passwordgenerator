@@ -16,3 +16,8 @@ the password must have at least one of the following character types:
 
 Link to deployed [password generator](https://janice-cloud.github.io/passwordgenerator/)
 
+## Visuals
+
+##### Mobile version
+
+##### Desktop version
