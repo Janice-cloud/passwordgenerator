@@ -6,7 +6,6 @@ const lowercaseEl = document.getElementById("lowercase");
 const numberEl = document.getElementById("numbers");
 const symbolEl = document.getElementById("symbols");
 const generateEl = document.getElementById("generate");
-const clipboardEl = document.getElementById("clipboard");
 const selectValue = document.getElementById("selectValue");
 
 const randomFunc = {
